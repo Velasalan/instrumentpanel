@@ -68,35 +68,35 @@
     {
       "type": "digital",
       "options": {
-        "path": "navigation.speedOverGround",
+        "path": "Speed Over Ground",
         "active": true
       }
     },
     {
       "type": "compass",
       "options": {
-        "path": "navigation.courseOverGroundTrue",
+        "path": "Course Over Ground True",
         "active": true
       }
     },
     {
       "type": "digitalposition",
       "options": {
-        "path": "navigation.position",
+        "path": "Navigation Position",
         "active": true
       }
     },
     {
       "type": "digital",
       "options": {
-        "path": "environment.depth.belowTransducer",
+        "path": "Depth Transducer",
         "active": true
       }
     },
     {
       "type": "digital",
       "options": {
-        "path": "navigation.magneticVariation",
+        "path": "Magnetic Variation",
         "active": false
       }
     },
